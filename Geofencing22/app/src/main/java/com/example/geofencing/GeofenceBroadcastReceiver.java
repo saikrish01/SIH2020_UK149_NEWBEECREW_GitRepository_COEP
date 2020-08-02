@@ -41,7 +41,7 @@ public class GeofenceBroadcastReceiver extends BroadcastReceiver {
         switch (transitionType) {
             case Geofence.GEOFENCE_TRANSITION_ENTER:
                 Toast.makeText(context, "GEOFENCE_TRANSITION_ENTER", Toast.LENGTH_SHORT).show();
-                notificationHelper.sendHighPriorityNotification("You have entered accident prone zone", "you have entered accident prone zone, drive with care", MapsActivity.class);
+                notificationHelper.sendHighPriorityNotification("You have entered accident prone zone", "You have entered accident prone zone, drive with care", MapsActivity.class);
                 break;
             case Geofence.GEOFENCE_TRANSITION_DWELL:
                 Toast.makeText(context, "GEOFENCE_TRANSITION_DWELL", Toast.LENGTH_SHORT).show();
@@ -49,7 +49,7 @@ public class GeofenceBroadcastReceiver extends BroadcastReceiver {
                 break;
             case Geofence.GEOFENCE_TRANSITION_EXIT:
                 Toast.makeText(context, "GEOFENCE_TRANSITION_EXIT", Toast.LENGTH_SHORT).show();
-                notificationHelper.sendHighPriorityNotification("ypu have exited accident prone zone", "You have safely passed the accident prone zone", MapsActivity.class);
+                notificationHelper.sendHighPriorityNotification("You have exited accident prone zone", "You have safely passed the accident prone zone", MapsActivity.class);
                 break;
         }
 
