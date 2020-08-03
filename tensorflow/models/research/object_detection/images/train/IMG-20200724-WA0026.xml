@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>IMG-20200724-WA0026.jpg</filename>
+	<path>C:\Users\Sai Krishna .M\tensorflow\models\research\object_detection\images\train\IMG-20200724-WA0026.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1600</width>
+		<height>736</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>NO ENTRY</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>806</xmin>
+			<ymin>520</ymin>
+			<xmax>946</xmax>
+			<ymax>677</ymax>
+		</bndbox>
+	</object>
+</annotation>

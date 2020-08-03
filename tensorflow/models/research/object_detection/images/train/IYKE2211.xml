@@ -1,0 +1,38 @@
+<annotation>
+	<folder>train</folder>
+	<filename>IYKE2211.JPG</filename>
+	<path>C:\Users\Sai Krishna .M\tensorflow\models\research\object_detection\images\train\IYKE2211.JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>720</width>
+		<height>1280</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>GUARDED LEVEL CROSSING</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>25</xmin>
+			<ymin>287</ymin>
+			<xmax>227</xmax>
+			<ymax>407</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>GUARDED LEVEL CROSSING</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>344</xmin>
+			<ymin>261</ymin>
+			<xmax>517</xmax>
+			<ymax>387</ymax>
+		</bndbox>
+	</object>
+</annotation>

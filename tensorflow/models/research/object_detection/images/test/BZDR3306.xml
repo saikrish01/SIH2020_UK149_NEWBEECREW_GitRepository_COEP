@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>BZDR3306.JPG</filename>
+	<path>C:\Users\Sai Krishna .M\tensorflow\models\research\object_detection\images\train\BZDR3306.JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>720</width>
+		<height>1280</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>SPEED LIMIT (40 KM/H)</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>135</xmin>
+			<ymin>515</ymin>
+			<xmax>532</xmax>
+			<ymax>958</ymax>
+		</bndbox>
+	</object>
+</annotation>

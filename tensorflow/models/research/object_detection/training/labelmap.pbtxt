@@ -1,0 +1,66 @@
+item {
+  id: 1
+  name: 'SCHOOL ZONE'
+}
+
+item {
+  id: 2
+  name: 'LEFT CURVE'
+}
+
+item {
+  id: 3
+  name: 'RIGHT CURVE'
+}
+
+item {
+  id: 4
+  name: 'U-TURN'
+}
+
+item {
+  id: 5
+  name: 'UNEVEN ROAD'
+}
+
+item {
+  id: 6
+  name: 'GO SLOW'
+}
+item {
+  id: 7
+  name: 'GUARDED LEVEL CROSSING'
+}
+
+item {
+  id: 8
+  name: 'SPEED LIMIT (40 KM/H)'
+}
+
+item {
+  id: 9
+  name: 'SPEED LIMIT (60 KM/H)'
+}
+
+item {
+  id: 10
+  name: 'NO ENTRY'
+}
+
+item {
+  id: 11
+  name: 'PEDESTRIAL CROSSING'
+}
+
+item {
+  id: 12
+  name: 'NO PARKING'
+}
+item {
+  id: 13
+  name: 'STOP'
+}
+item {
+  id: 14
+  name:'NO U-TURN'
+}

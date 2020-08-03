@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>CZVT2024.JPG</filename>
+	<path>C:\Users\Sai Krishna .M\tensorflow\models\research\object_detection\images\train\CZVT2024.JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>720</width>
+		<height>1280</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>NO ENTRY</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>144</xmin>
+			<ymin>323</ymin>
+			<xmax>691</xmax>
+			<ymax>858</ymax>
+		</bndbox>
+	</object>
+</annotation>

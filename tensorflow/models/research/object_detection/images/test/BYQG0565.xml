@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>BYQG0565.JPG</filename>
+	<path>C:\Users\Sai Krishna .M\tensorflow\models\research\object_detection\images\train\BYQG0565.JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>720</width>
+		<height>1280</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>SPEED LIMIT (40 KM/H)</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>35</xmin>
+			<ymin>218</ymin>
+			<xmax>720</xmax>
+			<ymax>1004</ymax>
+		</bndbox>
+	</object>
+</annotation>

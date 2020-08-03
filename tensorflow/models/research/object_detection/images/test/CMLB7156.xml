@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>CMLB7156.JPG</filename>
+	<path>C:\Users\Sai Krishna .M\tensorflow\models\research\object_detection\images\train\CMLB7156.JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>720</width>
+		<height>1280</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>NO PARKING</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>250</xmin>
+			<ymin>391</ymin>
+			<xmax>504</xmax>
+			<ymax>704</ymax>
+		</bndbox>
+	</object>
+</annotation>

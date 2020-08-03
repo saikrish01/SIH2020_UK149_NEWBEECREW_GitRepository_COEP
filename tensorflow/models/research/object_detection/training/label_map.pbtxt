@@ -1,0 +1,14 @@
+item {
+    id: 1
+    name: 'Go Slow; Optimal Speed: Not More than 40kmph'
+}
+
+item {
+    id: 2
+    name: 'School Zone; Optimal Speed: 25Kmph to 40Kmph'
+}
+
+item {
+    id: 3
+    name: 'Speed Limit: 40 Kmph'
+}

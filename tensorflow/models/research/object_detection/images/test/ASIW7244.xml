@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>ASIW7244.JPG</filename>
+	<path>C:\Users\Sai Krishna .M\tensorflow\models\research\object_detection\images\train\ASIW7244.JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>720</width>
+		<height>1280</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>NO ENTRY</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>256</xmin>
+			<ymin>369</ymin>
+			<xmax>471</xmax>
+			<ymax>618</ymax>
+		</bndbox>
+	</object>
+</annotation>

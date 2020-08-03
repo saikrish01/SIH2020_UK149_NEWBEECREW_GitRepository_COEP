@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>BILD1659.JPG</filename>
+	<path>C:\Users\Sai Krishna .M\tensorflow\models\research\object_detection\images\train\BILD1659.JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>720</width>
+		<height>1280</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>NO U-TURN</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>175</xmin>
+			<ymin>375</ymin>
+			<xmax>441</xmax>
+			<ymax>637</ymax>
+		</bndbox>
+	</object>
+</annotation>
