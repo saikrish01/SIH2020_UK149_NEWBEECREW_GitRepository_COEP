@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/geospark-notify-android.iml" filepath="$PROJECT_DIR$/geospark-notify-android.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/geospark-notify-android2.iml" filepath="$PROJECT_DIR$/.idea/modules/geospark-notify-android2.iml" group="geospark-notify-android2" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/geospark-notify-android2-app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/geospark-notify-android2-app.iml" group="geospark-notify-android2/app" />
+    </modules>
+  </component>
+</project>
